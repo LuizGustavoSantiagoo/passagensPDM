@@ -24,6 +24,8 @@ export default function Detalhes() {
 
   return (
     <View style={styles.container}>
+      <Text>Compras detalhadas:</Text>
+
       <View style={{ padding: 20, backgroundColor: '#E8D581', borderRadius: 12, elevation: 4 }}>
         <Text style={styles.text}>ID: {id}</Text>
         <Text style={styles.text}>De: {de.toUpperCase()}</Text>
