@@ -32,4 +32,6 @@ Este projeto é uma aplicação mobile feita com React Native que simula a venda
 ## Design System
 https://www.figma.com/design/KuGyuUD3R1HcZffKrEFVyb/PDM-PROVA-design-System?node-id=0-1&t=5aTFTkpu6xNxUZK7-1
 
----
+### Expo comands
+yarn start --tunnel > usar qr code no app expo go
+yarn start --tunnel w > para usar na web
